@@ -1,10 +1,10 @@
 CowSay for Windows
 ==============
 
-This application is a minimal feature version of cowsay
-that compiles for windows using visual studio 2015.
+This application is a minimal feature version of cowsay that compiles for windows using visual studio 2015.
 
 
+```
 C:\code\cowsay>dir | x64\Debug\cowsay.exe
    ____________________________________________________
   /  Volume in drive C is OSDisk                       \
@@ -28,5 +28,4 @@ C:\code\cowsay>dir | x64\Debug\cowsay.exe
              (__)\       )\/\
                  ||----w |
                  ||     ||
-
-C:\code\cowsay>
+```
