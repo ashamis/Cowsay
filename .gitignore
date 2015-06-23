@@ -1,0 +1,5 @@
+*.sdf
+*.opensdf
+*.v12.suo
+.vs/
+Debug/
